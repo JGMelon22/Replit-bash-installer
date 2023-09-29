@@ -13,4 +13,4 @@ An unofficial Replit desktop app intaller script for Linux
 - Execute the installer script with <code>`./Install.sh</code> <br/>
 <br/>
 
-[<img width="600" height="300"/>](https://github.com/JGMelon22/Replit-bash-installer/assets/73988556/d4067f0a-77ff-487d-84ba-701558778afd)
+[<img width="600" height="300"/>](https://github.com/JGMelon22/Replit-bash-installer/assets/73988556/ce062c2a-8c0a-47f4-8a94-85e94b4ae5a5)
